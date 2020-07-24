@@ -1,5 +1,12 @@
- #home{
-    background-image: url("/Images/backgrounds/h-img.jpg");
-    background-color: black;
-    text-align: center;
+body{
+   overflow-x: hidden;
+}
+
+#home {
+  background-image: url(/Images/backgrounds/h_img.jpg);
+  text-align: center;
+  background-repeat: no-repeat;
 } 
+#about {
+  text-align: center;
+}
