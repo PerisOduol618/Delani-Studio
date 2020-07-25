@@ -103,3 +103,6 @@ input,textarea{
 .point{
   cursor: pointer;
 }
+.des,.dev,.pro{
+  display:none;
+}
