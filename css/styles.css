@@ -8,6 +8,8 @@ body {
   background-repeat: no-repeat;
   background-size: cover;
   height: 100vh;
+  height: auto;
+  max-width: 100;
 }
 #about {
   text-align: center;
@@ -26,8 +28,38 @@ body {
   text-align: center;
 }
 .icons {
-   display: flex;
+  display: flex;
   justify-content: space-around;
-  flex-wrap: wrap; 
+  /* flex-wrap: wrap; */
   text-align: center;
-} 
+}
+#portfolio {
+  text-align: center;
+}
+/* .port {
+  display: flex;
+  justify-content: space-around;
+} */
+#contacts{
+  background-image: url(/Images/backgrounds/contacts.jpg);
+  text-align: center;
+  height: 90vh;
+}
+con{
+  padding-top: 20px;
+}
+form{
+  color: none;
+}
+input,textarea{
+  background-color: transparent;
+}
+
+/* .first{
+  display: flex;
+  justify-content: space-around;
+} */
+/* .second{
+  display: flex;
+  justify-content: space-around;
+} */
