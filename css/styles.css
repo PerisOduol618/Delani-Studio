@@ -71,11 +71,12 @@ body {
 .port {
   display: flex;
   justify-content: space-around;
-} 
+}  
 #contacts{
   background-image: url(/Images/backgrounds/contacts.jpg);
   text-align: center;
-  height: 90vh;
+  height: 100vh;
+  padding-top: 60px;
 }
 con{
   padding-top: 20px;
@@ -97,5 +98,8 @@ input,textarea{
 } */
 #footer{
   text-align: center;
-  padding:20px;
+  padding-right:100px ;
+}
+.point{
+  cursor: pointer;
 }
