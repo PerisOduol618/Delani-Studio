@@ -17,3 +17,11 @@ $(document).ready(function () {
         $(".pro").toggle();
     });
 });
+
+
+
+$(document).ready(function(){
+    $(".pic").hover(function(){
+        $(this).find("div").toggleClass("pic-description_show")
+    })
+})
