@@ -1,6 +1,9 @@
 body {
   overflow-x: hidden;
 }
+html{
+  scroll-behavior: smooth;
+}
 
 /* Media Queries: Tablet Landscape */
 @media screen and (max-width: 1060px) {
@@ -107,6 +110,7 @@ form {
 input,
 textarea {
   background-color: transparent;
+  color: white;
 }
 
 #footer {
@@ -148,5 +152,9 @@ textarea {
   visibility: visible;
   opacity: 1;
   background-color: rgba(0, 0, 0, 0.5);
+}
+#user-name{
+  margin-right: 3%;
+
 }
 
