@@ -4,7 +4,8 @@
 
  This is the link to my [live site]( perisoduol618.github.io/akan-names/)
 
- This application is to help you know the day of the week you were born and your Akan Name, which originate from Ghana corresponding to your day and your gender.
+ When you work with us,you are part of a team of commited collaborators.All aspects of our software development process are intergrated,interactive and agile.
+ Our approach unfiles design, development and product management to create exceptional products
 ## Setup/Installation Requirements
 * Under the repository name, click Clone or download.
 * In the Clone with HTTPs section, click  to copy the clone URL for the repository.
@@ -36,3 +37,11 @@ furnished to do so, subject to the following conditions:
 
 The above copyright notice and this permission notice shall be included in all
 copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.
