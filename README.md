@@ -2,7 +2,7 @@
 #### By **Peris Oduol**
 ## Description
 
- This is the link to my [live site]( perisoduol618.github.io/akan-names/)
+ This is the link to my [live site]( perisoduol618.github.io/delani-studio/)
 
  When you work with us,you are part of a team of commited collaborators.All aspects of our software development process are intergrated,interactive and agile.
  Our approach unfiles design, development and product management to create exceptional products
